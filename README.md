@@ -26,9 +26,9 @@ Ejecutar:
 
 ./sim Nmarcos tamaño_marco [--verbose] archivo_traza
 
-Ejemplos:
+Ejemplo:
 
-./sim 8 4096 traces/trace2.txt
+./sim 8 4096 trace.txt
 
 
-./sim 16 8 --verbose traces/trace1.txt
+
