@@ -4,10 +4,6 @@ cd parte1
 
 gcc -o barrera main.c -pthread
 
-cd parte2
-
-g++ -o sim sim.cpp 
-
 Parte I — Barrera Reutilizable
 
 cd parte1
@@ -18,6 +14,12 @@ Ejecutar:
 ./barrera (Nhebras) (Etapas)
 
 Parte II — Simulador de Memoria Virtual
+
+Compilacion
+
+cd parte2
+
+g++ -o sim sim.cpp 
 
 cd parte2
 make
