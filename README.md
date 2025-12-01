@@ -6,7 +6,7 @@ gcc -o barrera main.c -pthread
 
 cd parte2
 
-g++ -o sim sim.cpp -std=c++17
+g++ -o sim sim.cpp 
 
 Parte I — Barrera Reutilizable
 
