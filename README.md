@@ -2,7 +2,7 @@ Compilacion
 
 cd parte1
 
-gcc -o barrera main.c barrier.c -pthread
+gcc -o barrera main.c -pthread
 
 cd parte2
 
