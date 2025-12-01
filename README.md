@@ -29,4 +29,6 @@ Ejecutar:
 Ejemplos:
 
 ./sim 8 4096 traces/trace2.txt
+
+
 ./sim 16 8 --verbose traces/trace1.txt
