@@ -1,9 +1,11 @@
 Compilacion
 
 cd parte1
+
 gcc -o barrera main.c barrier.c -pthread
 
 cd parte2
+
 g++ -o sim sim.cpp -std=c++17
 
 Parte I — Barrera Reutilizable
