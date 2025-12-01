@@ -2,12 +2,7 @@ Parte I — Barrera Reutilizable
 
 Compilacion
 
-cd parte1
-
 gcc -o barrera main.c -pthread
-
-cd parte1
-make
 
 Ejecutar:
 
@@ -17,12 +12,7 @@ Parte II — Simulador de Memoria Virtual
 
 Compilacion
 
-cd parte2
-
 g++ -o sim sim.cpp 
-
-cd parte2
-make
 
 Ejecutar:
 
