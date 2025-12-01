@@ -1,10 +1,10 @@
+Parte I — Barrera Reutilizable
+
 Compilacion
 
 cd parte1
 
 gcc -o barrera main.c -pthread
-
-Parte I — Barrera Reutilizable
 
 cd parte1
 make
